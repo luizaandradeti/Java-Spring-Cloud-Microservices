@@ -1,0 +1,17 @@
+luiza:
+  cliente:
+    endereco:
+      url: http://localhost:8082/addresses
+server:
+  port: 8082
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      authentication-database: admin
+      username: example
+      password: example
+      database: db
+
+#este código é para estudo, não existe uma loja real, nem mesmo v
