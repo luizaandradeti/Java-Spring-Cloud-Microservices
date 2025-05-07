@@ -1,5 +1,6 @@
 package com.andrade.provider.clients;
 
+import com.andrade.core.domain.Regiao;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
